@@ -1,7 +1,7 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div style="padding:0px 20px;background-color:darkgray;" class="vh-100">
+    <div>Create Order</div>
+    <HelloWorld/>
   </div>
 </template>
 
